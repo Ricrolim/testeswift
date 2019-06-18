@@ -1,0 +1,14 @@
+135:Miami,Florida:61.9
+115:New Orleans,Louisiana:62.7
+117:Birmingham, Alabama:53.7
+114:Jacksonville, Florida:52.4
+108:Memphis, Tennessee:53.7
+117:Orlando, Florida:50.7
+87:Denver, Colorado:15.6
+27:Las Vegas, Nevada:4.2
+30:Phoenix, Arizona:8.2
+30:Riverside, California:10.5
+60:Sacramento, California:18.5
+96:Salt Lake City, Utah:16.1
+42:San Diego, California:10.3
+62:San Jose, California:15.8
